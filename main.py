@@ -266,6 +266,7 @@ with tab1:
         st.markdown("&nbsp;\n" * 24, unsafe_allow_html=True)
         st.markdown("&nbsp;\n" * 12, unsafe_allow_html=True)
         st.markdown("&nbsp;\n" * 24, unsafe_allow_html=True)
+        st.markdown("&nbsp;\n" * 24, unsafe_allow_html=True)
         st.write("")
 
         st.write("""
