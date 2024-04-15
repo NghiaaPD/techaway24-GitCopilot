@@ -267,7 +267,7 @@ with tab1:
         st.markdown("&nbsp;\n" * 12, unsafe_allow_html=True)
         st.markdown("&nbsp;\n" * 24, unsafe_allow_html=True)
         st.markdown("&nbsp;\n" * 24, unsafe_allow_html=True)
-        st.write("")
+
 
         st.write("""
         c) Trong trang Extensions, tìm kiếm **"GitHub Copilot"** trong ô tìm kiếm. Nhấp vào tiện ích mang tên **"GitHub Copilot"** của GitHub sau đó nhấp vào nút **Install** để cài đặt tiện ích.
