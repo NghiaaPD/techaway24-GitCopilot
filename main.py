@@ -278,6 +278,7 @@ with tab1:
         st.markdown("&nbsp;\n" * 24, unsafe_allow_html=True)
         st.markdown("&nbsp;\n" * 12, unsafe_allow_html=True)
         st.markdown("&nbsp;\n" * 24, unsafe_allow_html=True)
+        st.markdown("&nbsp;\n" * 24, unsafe_allow_html=True)
 
 
         st.write("d) Sau khi quá trình cài đặt hoàn tất, bạn sẽ thấy nhận được thông báo phải đăng nhập tài khoản GitHub của bạn. Nếu bạn chưa có tài khoản GitHub, bạn sẽ phải tạo một tài khoản.")
