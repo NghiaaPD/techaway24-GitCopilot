@@ -287,7 +287,7 @@ with tab1:
         st.markdown("&nbsp;\n" * 24, unsafe_allow_html=True)
         st.markdown("&nbsp;\n" * 24, unsafe_allow_html=True)
         st.markdown("&nbsp;\n" * 12, unsafe_allow_html=True)
-        st.write("")
+        st.markdown("&nbsp;\n" * 24, unsafe_allow_html=True)
 
 
         st.write("e) Sau khi đăng nhập tài khoản GitHub đã có đăng ký GitHub Copilot, thì ở phía dưới cùng bên phải màn hình, bạn sẽ thấy GitHub Copilot đã được kích hoạt.")
