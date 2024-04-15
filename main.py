@@ -459,32 +459,32 @@ with tab3:
     with col2:
         st.image("./asset/image/F-Code_logo.png", width=280)
         st.markdown("<h2 style='color: #FFC81B;'>Nguồn Tham Khảo</h2>", unsafe_allow_html=True)
-st.write("")
-st.write("""
-        - https://code.visualstudio.com/docs/copilot/overview
-
-        - https://en.wikipedia.org/wiki/GitHub_Copilot
-
-        - https://github.com/features/copilot
-
-        - https://serokell.io/blog/github-copilot-overview
-
-        - https://inspeerity.com/blog/github-copilot-part1/
-
-        - https://dagshub.com/blog/github-copilot-not-code/
-
-        - https://www.toponseek.com/blogs/copilot-github-la-gi/
-
-        - https://thinhdanggroup.github.io/ai-pair-programing-vn-copy/
-
-        - https://sec.vnpt.vn/2023/12/github-copilot-cong-cu-thay-doi-cuoc-cach-mang-lap-trinh-tu-dong-hoa/
-
-        - https://www.youtube.com/watch?v=wTMSDbAli0s&t=373s
-
-        - https://www.youtube.com/watch?v=h8SpwivM4po
-
-        - https://www.youtube.com/watch?v=SZVCJRUADc4
-
-        - https://www.youtube.com/watch?v=2q0BoioYSxQ
-
-        """)
+    st.write("")
+    st.write("""
+            - https://code.visualstudio.com/docs/copilot/overview
+    
+            - https://en.wikipedia.org/wiki/GitHub_Copilot
+    
+            - https://github.com/features/copilot
+    
+            - https://serokell.io/blog/github-copilot-overview
+    
+            - https://inspeerity.com/blog/github-copilot-part1/
+    
+            - https://dagshub.com/blog/github-copilot-not-code/
+    
+            - https://www.toponseek.com/blogs/copilot-github-la-gi/
+    
+            - https://thinhdanggroup.github.io/ai-pair-programing-vn-copy/
+    
+            - https://sec.vnpt.vn/2023/12/github-copilot-cong-cu-thay-doi-cuoc-cach-mang-lap-trinh-tu-dong-hoa/
+    
+            - https://www.youtube.com/watch?v=wTMSDbAli0s&t=373s
+    
+            - https://www.youtube.com/watch?v=h8SpwivM4po
+    
+            - https://www.youtube.com/watch?v=SZVCJRUADc4
+    
+            - https://www.youtube.com/watch?v=2q0BoioYSxQ
+    
+            """)
