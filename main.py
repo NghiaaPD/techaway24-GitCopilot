@@ -118,8 +118,7 @@ with tab1:
     bạn đang làm việc với ngôn ngữ lập trình nào thì GitHub Copilot cũng đều có thể
     trở thành “một trợ lý ảo đắc lực” hỗ trợ bạn trong công việc.
     
-    (trích dẫn: https://sec.vnpt.vn/2023/12/github-copilot-cong-cu-thay-doi-cuoc-
-    cach-mang-lap-trinh-tu-dong-hoa/)
+    (trích dẫn: https://sec.vnpt.vn/2023/12/github-copilot-cong-cu-thay-doi-cuoc-cach-mang-lap-trinh-tu-dong-hoa/)
     """)
 
     st.markdown("<h2 style='color: #51C95D;'>2. Ưu & Nhược điểm</h2>", unsafe_allow_html=True)
